@@ -13,7 +13,7 @@ University: VIT Bhopal University
 
 This project was done as a part of Digital Literacy course. The main aim was to understand how to use digital tools properly ensuring and being aware about online safety at the same time.
 
-In this project, I have completed five different tasks which included Infographic, creating online profiles on different platforms like GitHub, LinkedIn and Kaggle, writing professional emails, and learning about cybercrimes specially cyberbullying. All the work is organised into different folders in this repository.
+In this project, I have completed five different tasks which included Infographic, creating online profiles on different platforms like GitHub, LinkedIn and Kaggle, writing professional emails, and learning about cybercrimes specially cyberbullying. All the works are organised into different folders in this repository.
 
 ----------------------------------------------------------------------------------------------
 
@@ -40,7 +40,7 @@ Contains the final project report in PDF/DOCX format.
 ----------------------------------------------------------------------------------------------
 
 **Tools & Platforms Used**
-- Canva (for inforgraphic)
+- Canva (for infographic)
 - GitHub (for repository)
 - LinkedIn (for professional profile)
 - HackerRank (for coding practice)
@@ -62,5 +62,5 @@ National Cyber Crime Portal: https://cybercrime.gov.in
 ----------------------------------------------------------------------------------------------
 
 **Final Note**
-This project helped me understand the digital world better. I will continue ro improve my skills and use these platforms in the coming years more efficiently.
+This project helped me understand the digital world better. I will continue to improve my skills and use these platforms in the coming years more efficiently.
 
